@@ -1,0 +1,1 @@
+https://oak9io.sharepoint.com/:x:/r/sites/Fractal/_layouts/15/Doc.aspx?sourcedoc=%7B7D6182DB-9320-4C21-B586-3485582FA3A2%7D&file=AWS.DynamoDB.Table_v0.2.xlsx&action=default&mobileredirect=true

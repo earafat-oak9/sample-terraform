@@ -1,0 +1,7 @@
+/bin/
+/node_modules/
+
+/run_settings
+/aws/run_settings
+/azure/run_settings
+/Pulumi.*.yaml

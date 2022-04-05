@@ -1,0 +1,31 @@
+*       text=auto
+
+# Source code and their preferred endings
+*.cs diff=csharp text
+*.go             text eol=lf
+*.java           text
+*.js             text
+*.json           text linguist-language=JSON-with-Comments
+*.md             text
+*.py             text eol=lf filter=tabspace
+*.scala          text
+*.sh             text eol=lf
+*.gradle         text
+*.xml            text
+*.XML            text
+*.bat            text eol=crlf
+*.info           text
+*.md             text
+*.inc            text
+*.msbuild        text
+
+# bash files not having the .sh extension
+gradlew          text eol=lf
+
+# other text
+makefile         text
+rakefile         text
+*.yaml           text 
+*.yml            text
+*.csv            text
+*.sln            text eol=crlf
