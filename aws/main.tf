@@ -12,18 +12,10 @@ provider "aws" {
   region = "us-east-2"
 }
 
-module "s3" {
-  source = "./s3/"
+# module "s3" {
+#   source = "./s3/"
+# }
+
+module "elastiCache" {
+  source = "./elastiCache"
 }
-
-# module "s3-buckets" {
-#   source = "./s3-buckets"
-# }
-
-# module "s3-buckets" {
-#   source = "./s3-buckets"
-# }
-
-# module "s3-buckets" {
-#   source = "./s3-buckets"
-# }
